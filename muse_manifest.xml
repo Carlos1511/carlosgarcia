@@ -1,0 +1,160 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="carlosgarciadesigner.com" resolutions="1x" timestamp="1492563953204">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="113873754" ref="portfolio:index:contact:about"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="portfolio:index:contact:about"/>
+    <file name="portfolio.css" crc="116568950" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="3944844008" ref="portfolio"/>
+    <file name="index.css" crc="16959098" ref="index"/>
+    <file name="nomq_index.css" crc="359356421" ref="index"/>
+    <file name="contact.css" crc="4091463427" ref="contact"/>
+    <file name="nomq_contact.css" crc="3934056336" ref="contact"/>
+    <file name="about.css" crc="4091463427" ref="about"/>
+    <file name="nomq_about.css" crc="3934056336" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:about:contact"/>
+    <file name="museutils.js" crc="4148063285" ref="index:portfolio:about:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfolio:about:contact"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:portfolio:about:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:portfolio"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:portfolio:about:contact"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:portfolio:about:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:about:contact"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index:portfolio:about:contact"/>
+    <file name="require.js" crc="4159430777" ref="index:portfolio:about:contact"/>
+    <file name="webpro.js" crc="3986320349" ref="portfolio"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="portfolio"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="portfolio"/>
+    <file name="touchswipe.js" crc="221459597" ref="portfolio"/>
+  </folder>
+  <folder name="images">
+    <file name="header_banner.png" crc="3789366923" ref="index:portfolio"/>
+    <file name="t-shirt_nosharow-05-05.png" crc="57184137" ref="index"/>
+    <file name="vynil_car_wrap-07.png" crc="3762560558" ref="index"/>
+    <file name="karma_poster03.jpg" crc="392932793" ref="index"/>
+    <file name="u2386-4.png" crc="358420970" ref="index"/>
+    <file name="u2391-4.png" crc="350042451" ref="index"/>
+    <file name="wmc_banner.png" crc="201802542" ref="index:portfolio"/>
+    <file name="t-shirt_nosharow-05-05-u2367-fr.png" crc="3789145143" ref="index"/>
+    <file name="vynil_car_wrap-07-u2390-fr.png" crc="4044565222" ref="index"/>
+    <file name="karma_poster03-u2641-fr.jpg" crc="3992990235" ref="index"/>
+    <file name="u2386-42.png" crc="4290421984" ref="index"/>
+    <file name="u2391-42.png" crc="4207293365" ref="index"/>
+    <file name="wmc_banner-u3058-fr.png" crc="4183450004" ref="index"/>
+    <file name="vynil_car_wrap-07-u2390-fr2.png" crc="387925708" ref="index"/>
+    <file name="u2386-43.png" crc="210294385" ref="index"/>
+    <file name="u2391-43.png" crc="4073004351" ref="index"/>
+    <file name="wmc_banner-u3058-fr2.png" crc="215386048" ref="index"/>
+    <file name="t-shirt_nosharow-05-05-u2367-fr2.png" crc="3994353139" ref="index"/>
+    <file name="vynil_car_wrap-07-u2390-fr3.png" crc="4247877625" ref="index"/>
+    <file name="karma_poster03-u2641-fr2.jpg" crc="4064505072" ref="index"/>
+    <file name="u2386-44.png" crc="4258350043" ref="index"/>
+    <file name="u2391-44.png" crc="4149016964" ref="index"/>
+    <file name="wmc_banner-u3058-fr3.png" crc="417799083" ref="index"/>
+    <file name="t-shirt_nosharow-05-05-u2367-fr3.png" crc="4059933752" ref="index"/>
+    <file name="vynil_car_wrap-07-u2390-fr4.png" crc="3942932408" ref="index"/>
+    <file name="u2386-45.png" crc="3809157014" ref="index"/>
+    <file name="u2391-45.png" crc="3851704731" ref="index"/>
+    <file name="karma_poster03-u2641-fr3.jpg" crc="486278648" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:portfolio:about:contact"/>
+    <file name="pencil_color_design.jpg" crc="21326514" ref="portfolio:index"/>
+    <file name="bannerdesign1.jpg" crc="4271207576" seo="true" ref="portfolio"/>
+    <file name="bannergrapicdesign.jpg" crc="4209291303" seo="true" ref="portfolio"/>
+    <file name="black friday sales banner.jpg" crc="4079296128" ref="portfolio:index"/>
+    <file name="car_ford_acmrepair.png" crc="108678375" seo="true" ref="portfolio"/>
+    <file name="car_ford_medicalinsurance.png" crc="121134533" seo="true" ref="portfolio"/>
+    <file name="car_ford_wrap.jpg" crc="5935787" seo="true" ref="portfolio"/>
+    <file name="designn26.jpg" crc="316333410" seo="true" ref="portfolio"/>
+    <file name="designp21.png" crc="3831975358" seo="true" ref="portfolio"/>
+    <file name="hardspacedesign.jpg" crc="486763893" ref="portfolio:index"/>
+    <file name="human-1411499_19201.jpg" crc="253665309" seo="true" ref="portfolio"/>
+    <file name="mcw_sports.png" crc="3773676260" seo="true" ref="portfolio"/>
+    <file name="menu-01.jpg" crc="3758341256" seo="true" ref="portfolio"/>
+    <file name="mybusinesscard.png" crc="3933623718" seo="true" ref="portfolio"/>
+    <file name="nightclub2.jpg" crc="269771698" seo="true" ref="portfolio"/>
+    <file name="notebook_layout.png" crc="4032746625" seo="true" ref="portfolio"/>
+    <file name="puppy_dsd.jpg" crc="4101934785" seo="true" ref="portfolio"/>
+    <file name="t_shirt_design.jpg" crc="435684572" seo="true" ref="portfolio"/>
+    <file name="transitv1_travelagent.png" crc="333483550" seo="true" ref="portfolio"/>
+    <file name="transitv2_florist.png" crc="4150789410" seo="true" ref="portfolio"/>
+    <file name="transitv3_hospital.png" crc="3976995011" seo="true" ref="portfolio"/>
+    <file name="pencil_color_design60x46.jpg" crc="466405574" seo="true" ref="portfolio"/>
+    <file name="wmc_banner-crop-u4699.png" crc="4183287306" ref="portfolio"/>
+    <file name="bannerdesign172x45.jpg" crc="3780223803" seo="true" ref="portfolio"/>
+    <file name="bannergrapicdesign-crop-u4751.jpg" crc="220292247" ref="portfolio"/>
+    <file name="black friday sales banner63x45.jpg" crc="4094636587" seo="true" ref="portfolio"/>
+    <file name="car_ford_acmrepair69x45.png" crc="264218973" seo="true" ref="portfolio"/>
+    <file name="car_ford_medicalinsurance69x45.png" crc="326540867" seo="true" ref="portfolio"/>
+    <file name="car_ford_wrap69x45.jpg" crc="4223919562" seo="true" ref="portfolio"/>
+    <file name="designn26-crop-u4881.jpg" crc="4271595839" ref="portfolio"/>
+    <file name="designp21-crop-u4907.png" crc="4002335278" ref="portfolio"/>
+    <file name="hardspacedesign60x55.jpg" crc="329995632" seo="true" ref="portfolio"/>
+    <file name="human-1411499_1920166x45.jpg" crc="4170023015" seo="true" ref="portfolio"/>
+    <file name="mcw_sports-crop-u4985.png" crc="4051463668" ref="portfolio"/>
+    <file name="menu-0164x45.jpg" crc="400423300" seo="true" ref="portfolio"/>
+    <file name="mybusinesscard-crop-u5037.png" crc="3935703840" ref="portfolio"/>
+    <file name="nightclub2-crop-u5063.jpg" crc="96699218" ref="portfolio"/>
+    <file name="notebook_layout-crop-u5089.png" crc="495442747" ref="portfolio"/>
+    <file name="puppy_dsd68x45.jpg" crc="4015662283" seo="true" ref="portfolio"/>
+    <file name="t_shirt_design-crop-u5141.jpg" crc="3970795495" ref="portfolio"/>
+    <file name="transitv1_travelagent60x45.png" crc="104310445" seo="true" ref="portfolio"/>
+    <file name="transitv2_florist60x45.png" crc="3943171647" seo="true" ref="portfolio"/>
+    <file name="transitv3_hospital60x45.png" crc="360574245" seo="true" ref="portfolio"/>
+    <file name="artboard 2-u4436-3.png" crc="291553082" ref="portfolio"/>
+    <file name="artboard 1-u4416-3.png" crc="3801021621" ref="portfolio"/>
+    <file name="loading.gif" crc="3815509949" ref="portfolio"/>
+    <file name="wmc_banner-crop-u46992.png" crc="4183287306" ref="portfolio"/>
+    <file name="bannergrapicdesign-crop-u47512.jpg" crc="220292247" ref="portfolio"/>
+    <file name="designn26-crop-u48812.jpg" crc="4271595839" ref="portfolio"/>
+    <file name="designp21-crop-u49072.png" crc="4002335278" ref="portfolio"/>
+    <file name="mcw_sports-crop-u49852.png" crc="4051463668" ref="portfolio"/>
+    <file name="mybusinesscard-crop-u50372.png" crc="3935703840" ref="portfolio"/>
+    <file name="nightclub2-crop-u50632.jpg" crc="96699218" ref="portfolio"/>
+    <file name="notebook_layout-crop-u50892.png" crc="495442747" ref="portfolio"/>
+    <file name="t_shirt_design-crop-u51412.jpg" crc="3970795495" ref="portfolio"/>
+    <file name="artboard 2-u4436-32.png" crc="291553082" ref="portfolio"/>
+    <file name="artboard 1-u4416-32.png" crc="3801021621" ref="portfolio"/>
+    <file name="wmc_banner-crop-u46993.png" crc="4183287306" ref="portfolio"/>
+    <file name="bannergrapicdesign-crop-u47513.jpg" crc="220292247" ref="portfolio"/>
+    <file name="designn26-crop-u48813.jpg" crc="4271595839" ref="portfolio"/>
+    <file name="designp21-crop-u49073.png" crc="4002335278" ref="portfolio"/>
+    <file name="mcw_sports-crop-u49853.png" crc="4051463668" ref="portfolio"/>
+    <file name="mybusinesscard-crop-u50373.png" crc="3935703840" ref="portfolio"/>
+    <file name="nightclub2-crop-u50633.jpg" crc="96699218" ref="portfolio"/>
+    <file name="notebook_layout-crop-u50893.png" crc="495442747" ref="portfolio"/>
+    <file name="t_shirt_design-crop-u51413.jpg" crc="3970795495" ref="portfolio"/>
+    <file name="artboard 2-u4436-33.png" crc="291553082" ref="portfolio"/>
+    <file name="artboard 1-u4416-33.png" crc="3801021621" ref="portfolio"/>
+    <file name="graphicdesignbanner12.jpg" crc="4236108416" ref="index"/>
+    <file name="bannerfestivaelectronicrgb.jpg" crc="88933210" ref="index"/>
+    <file name="car_wrap_design.jpg" crc="477066821" ref="index"/>
+    <file name="kitchen_magazine_file2.jpg" crc="218521773" ref="index"/>
+    <file name="kitchen_magazine_file3.jpg" crc="168925174" ref="index"/>
+    <file name="black friday sales banner-u8401-fr.jpg" crc="236823087" ref="index"/>
+    <file name="graphicdesignbanner12-u8415-fr.jpg" crc="3911768237" ref="index"/>
+    <file name="bannerfestivaelectronicrgb-u8429-fr.jpg" crc="3825854776" ref="index"/>
+    <file name="car_wrap_design-u8449-fr.jpg" crc="4047797011" ref="index"/>
+    <file name="kitchen_magazine_file2-u8499-fr.jpg" crc="117971296" ref="index"/>
+    <file name="kitchen_magazine_file3-u8513-fr.jpg" crc="243863495" ref="index"/>
+    <file name="pencil_color_design-u8533-fr.jpg" crc="3872304283" ref="index"/>
+    <file name="bannerfestivaelectronicrgb-u8429-fr2.jpg" crc="3786122682" ref="index"/>
+    <file name="pencil_color_design-u8533-fr2.jpg" crc="183245477" ref="index"/>
+    <file name="bannerfestivaelectronicrgb-u8429-fr3.jpg" crc="3974275419" ref="index"/>
+    <file name="kitchen_magazine_file2-u8499-fr2.jpg" crc="461869587" ref="index"/>
+    <file name="kitchen_magazine_file3-u8513-fr2.jpg" crc="4038174147" ref="index"/>
+    <file name="pencil_color_design-u8533-fr3.jpg" crc="423604687" ref="index"/>
+    <file name="hardspacedesign-u8387-fr.jpg" crc="3999877579" ref="index"/>
+    <file name="black friday sales banner-u8401-fr2.jpg" crc="4262130238" ref="index"/>
+    <file name="graphicdesignbanner12-u8415-fr2.jpg" crc="3759084192" ref="index"/>
+    <file name="bannerfestivaelectronicrgb-u8429-fr4.jpg" crc="385519429" ref="index"/>
+    <file name="car_wrap_design-u8449-fr2.jpg" crc="211360565" ref="index"/>
+    <file name="pencil_color_design-u8533-fr4.jpg" crc="4060494626" ref="index"/>
+    <file name="kitchen_magazine_file2-u8499-fr3.jpg" crc="4264703445" ref="index"/>
+    <file name="kitchen_magazine_file3-u8513-fr3.jpg" crc="3913543790" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3938021634" seo="true" mt="1492563940486" redirect="true"/>
+  <file name="portfolio.html" crc="163322937" seo="true" mt="1486761778365" redirect="true"/>
+  <file name="about.html" crc="4271235476" seo="true" mt="1486761778365" redirect="true"/>
+  <file name="contact.html" crc="475480955" seo="true" mt="1486761778365" redirect="true"/>
+</manifest>
